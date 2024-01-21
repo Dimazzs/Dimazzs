@@ -47,6 +47,18 @@
 
 </td><td valign="top" width="33%">
 
+### Other  
+<div align="center">  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="Visual Studio Code" height="50" /></a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank"><img style="margin: 10px" src="https://simpleicons.org/icons/intellijidea.svg" alt="IntelliJ IDEA" height="50" /></a>
+</div>
+
+</td></tr></table>  
+
+<br/>  
 
 ## Connect with me  
 <div align="center">
